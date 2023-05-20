@@ -1,0 +1,25 @@
+1) title="Critical Things to Know About Emotions for Mental Health and Healing",href="https://www.nami.org/Blogs/NAMI-Blog/January-2023/Critical-Things-to-Know-About-Emotions-for-Mental-Health-and-Healing",details="Perhaps the most important thing to know about emotions is that “emotions just are.” They can't necessarily be stopped or prevented. And there is a reason we can’t prevent core emotions from happening — emotions evolved to help us survive."
+
+2)title="The Widely Neglected Healing Power of Music",href="https://www.nami.org/Blogs/NAMI-Blog/December-2022/The-Widely-Neglected-Healing-Power-of-Music",details="The purpose of music goes far beyond its auditory appeal; it is a critical tool to understanding ourselves and improving our mental health."
+
+3)title="The Importance of Prioritizing Emotional Wellness over Academic Achievement",href="https://www.nami.org/Blogs/NAMI-Blog/December-2022/The-Importance-of-Prioritizing-Emotional-Wellness-over-Academic-Achievement",details="We raise our children within a framework that expects them to “get ahead” of everyone else. And we seemed to have defined “getting ahead” narrowly: moving through school and landing on a “successful” career path. However, what evidence is there that someone who follows these timelines will have more success in the end than someone who does not?"
+
+4)title="17 Inspiring Quotes About Setting Healthy Boundaries",href="https://psychcentral.com/health/quotes-healthy-boundaries",details="
+Setting and implementing boundaries is one of the most empowering things you can do for yourself. It can be challenging, but reading quotes may inspire you to set and maintain them."
+
+5)title="The History of Anxiety", href="https://psychcentral.com/anxiety/the-origins-of-anxiety",details="When did the medical world start to understand anxiety disorders? Learn about the diagnosis and treatment of anxiety from ancient to modern times."
+
+6)title="Do Positive Affirmations Work?", href="https://psychcentral.com/health/why-positive-affirmations-dont-work", details="Positive affirmations, like “I am worthy”, can help you cope with unhelpful thoughts. But they can be more effective when paired with other techniques."
+
+7)title="What Is the Difference Between Supporting and Enabling?", href="https://psychcentral.com/health/what-is-the-difference-between-supporting-and-enabling",details="Enabling behaviors can encourage unhelpful habits and behaviors, even if it’s unknowingly. But supporting behaviors can empower a loved one to recover."
+
+8)title="How to Really Rest", href="https://psychcentral.com/blog/how-to-really-rest",details="Rest can look different for everyone. Setting aside time to engage in activities, such as watching the sunrise, can help you feel restful and decrease stress."
+
+9)title="How to Move Past Regret", href="https://psychcentral.com/blog/a-powerful-exercise-for-moving-past-regret",details="Regret is a common feeling that has both negative and positive effects. Knowing how to move past and learn from them is key to your overall well-being."
+
+10)title="13 Effective Ways to Overcome Social Anxiety", href="https://www.talkspace.com/blog/how-to-overcome-social-anxiety/",details="Read on for the top tips out there for dealing with social anxiety. You’ll be able to take back control of your life, with the skills you need so you know how to deal with social anxiety and live your life to the fullest. Read on to learn more."
+
+11)title="12 Ways to Stop a Panic Attack", href="https://www.healthline.com/health/how-to-stop-a-panic-attack",details="If you’re having a panic attack, you can manage your symptoms in the moment with strategies like deep breathing, mindfulness exercises, muscle relaxation, and more."
+
+12)title="10 Simple Ways to Cope with Stress",href="https://www.sutterhealth.org/health/mind-body/10-simple-ways-to-cope-with-stress", details="Stress is a natural part of life. However, too much stress can harm our health, especially if it continues every day. This is chronic stress and can put you at risk for heart problems like heart disease and depression. Understand what’s happening inside your body and learn simple coping skills to combat the negative impacts of everyday stressors."
+
